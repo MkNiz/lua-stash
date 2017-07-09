@@ -1,0 +1,7 @@
+print("The data type of nil is: " .. type(nil))
+print("The data type of true is: " .. type(true))
+print("The data type of 24 / 7 is: " .. type(24 / 7))
+print("The data type of \"fresh oats\" is: " .. type("fresh oats"))
+print("The data type of io.stdin is: " .. type(io.stdin))
+print("The data type of print is: " .. type(print))
+print("The data type of { ['horse'] = true } is: " .. type({ ['horse'] = true }))
